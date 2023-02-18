@@ -70,4 +70,3 @@ def military_time(s):
         
                         
     return time_str
-military_time("12PM")
